@@ -1,0 +1,16 @@
+body {
+  padding-top: 65px;
+  padding-bottom: 30px;
+}
+
+.padding-left {
+  padding-left: 200px;
+}
+
+.footer-link {
+  color: black;
+}
+
+a.website-link {
+  color: black;
+}
